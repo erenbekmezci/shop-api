@@ -67,7 +67,7 @@ There are 2 layers in the developed project:
 I used the following technologies while creating this API project.
 
 * [.Net Core 8](https://docs.microsoft.com/tr-tr/aspnet/core/introduction-to-aspnet-core?view=aspnetcore-8.0)
-* [Entity Framework Core 6](https://docs.microsoft.com/tr-tr/ef/core/)
+* [Entity Framework Core 8](https://docs.microsoft.com/tr-tr/ef/core/)
 * [SQL Server](https://www.google.com/search?client=opera&q=sql+server&sourceid=opera&ie=UTF-8&oe=UTF-8)
 * [Visual Studio 2022](https://visualstudio.microsoft.com/tr/vs/)
 
